@@ -1,0 +1,41 @@
+{"books": [{
+  "id":1,
+  "title": " 1) ZipRecruiter",
+  "Description": "The ZipRecruiter app makes it easy to search for and apply to jobs immediately, without needing your laptop. First, upload your resume. Then, use the app to save potential opportunities, apply for jobs, and even track your applications.",
+  "Cost": "Cost: Free",
+  "compatible": "Compatible: iphone,ipad and Android",
+  "user": "Registered Users: ZipRecruiter has database of over 36 million resumes"
+  
+},
+{
+  "id":2,
+  "title": "2) Linkedln",
+  "Description": "When you want to network, LinkedIn is the place to go. With tons of employers, it is also an excellent place to meet recruiters. You can set up a profile that works like a resume, but you can upload your own resume, too. ",
+  "Cost": "Cost: Free for basic ; 29.99-97.99 premium per month",
+  "compatible": "Compatible: iphone,ipad and Android",
+  "user": "Registered Users: Network with more than 875 million members."
+},
+{
+  "id":3,
+  "title": "3) CareerBuilder",
+  "Description": "CareerBuilder’s mobile job search app helps job seekers each step of the way. Job seekers can make and save a personalized resume with just a few clicks. You would then be able to utilize your resume to go after job opportunities of interest. You can upload or build a resume right in the app, apply for jobs with a single tap, research salaries, and required skills for various job openings." ,
+  "Cost": "Cost: Free",
+  "compatible": "Compatible: iphone,ipad and Android",
+  "user": "Registered Users: Over 80 million candidates in CareerBuilder's resume database."
+},
+{
+  "id":4,
+  "title": "4) Snagajob",
+  "Description": "If you're looking for a part-time or hourly job, then Snagajob is your app. You'll get immediate access to their database of new job listings, and the app even matches you with jobs that are a good fit. In addition to the one-click apply feature, which allows you to easily apply to jobs, Snagajob also lets you show off your personality to employers with a personality quiz. You can even add a video to your profile.",
+  "Cost": "Cost: Free",
+  "compatible": "Compatible: iphone,ipad and Android",
+  "user": "Registered Users: Over 100 million registered job seekers."
+},
+{
+  "id":5,
+  "title": "5) Indeed",
+  "Description": "If you're a fan of Indeed, then you'll want to use its app. It's garnered nearly 1.2 million ratings in the iTunes store with an average 4.7 out of 5-star review. Pretty impressive, right? It works similarly to the website in that you can search millions of jobs in a matter of seconds. ",
+  "Cost": "Cost: Free",
+  "compatible": "Compatible: iphone,ipad and Android",
+  "user": "Registered Users: Over 100 million registered job seekers."
+}]}
